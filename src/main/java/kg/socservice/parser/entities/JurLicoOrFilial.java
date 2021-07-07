@@ -1,5 +1,6 @@
 package kg.socservice.parser.entities;
 
+import lombok.*;
 import lombok.experimental.FieldDefaults;
 
 import javax.persistence.*;
